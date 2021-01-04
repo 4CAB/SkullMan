@@ -1,7 +1,7 @@
 import os
 
 num = 0
-if == 0:
+if num == 0:
 	os.system("pip3 install python3-xlib")
 	os.system("sudo apt-get install scrot")
 	os.system("sudo apt-get install python3-tk")
